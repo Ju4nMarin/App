@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412000964860",
+    "project_id": "uccdax",
+    "storage_bucket": "uccdax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412000964860:android:5665f25cf42f688826c779",
+        "android_client_info": {
+          "package_name": "com.uccdax.uccdax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412000964860-uoq56uko19tpesio52frjkesemcb5ggp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TtVkkl6_zRUnDHBani_vWmsuIM0CAtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412000964860-uoq56uko19tpesio52frjkesemcb5ggp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
